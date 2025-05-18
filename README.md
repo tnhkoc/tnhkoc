@@ -13,6 +13,8 @@ With 4+ years of experience in end-user and infrastructure support, I'm now focu
 ### 📂 Projects
 - [EC2 to S3 IAM Role Integration](https://github.com/tnhkoc/EC2-to-S3-IAM-Role-Integration)
 - [Lambda S3 File Trigger](https://github.com/tnhkoc/lambda-s3-file-trigger)
+- [EC2 CPU Utilization Alarm with SNS Notification](https://github.com/tnhkoc/ec2-health-monitoring)
+- [Static Website Hosting with Amazon S3 + CloudFront](https://github.com/tnhkoc/static-website-s3-cloudfront)
 
 More labs coming soon — aiming to contribute daily.
 
