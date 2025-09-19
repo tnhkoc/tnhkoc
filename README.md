@@ -24,9 +24,10 @@ With 4+ years in IT support and infrastructure roles, I'm now focused on buildin
 - Creating a CI/CD pipeline using GitHub Actions for IaC
 - Kubernetes cluster monitoring with Prometheus + Grafana dashboards
 
-### 🏅 Certification
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/earner/earned/badge/710309d3-be82-43ef-acf0-1791c633206b)
-
+<h3>🏅 Certification</h3>
+<a href="https://www.credly.com/earner/earned/badge/710309d3-be82-43ef-acf0-1791c633206b" target="_blank">
+  <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="180"/>
+</a>
 
 ### 🌍 Open to relocation for Cloud/DevOps roles across EU/UK  
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/tunahan-koc-8b43b765) or via email
