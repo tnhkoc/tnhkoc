@@ -25,7 +25,7 @@ With 4+ years in IT support and infrastructure roles, I'm now focused on buildin
 - Kubernetes cluster monitoring with Prometheus + Grafana dashboards
 
 <h3>🏅 Certification</h3>
-<a href="https://www.credly.com/earner/earned/badge/710309d3-be82-43ef-acf0-1791c633206b" target="_blank">
+<a href="https://www.credly.com/badges/710309d3-be82-43ef-acf0-1791c633206b" target="_blank">
   <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="180"/>
 </a>
 
