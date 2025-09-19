@@ -17,6 +17,7 @@ With 4+ years in IT support and infrastructure roles, I'm now focused on buildin
 - [Lambda S3 File Trigger](https://github.com/tnhkoc/lambda-s3-file-trigger)
 - [EC2 CPU Utilization Alarm with SNS Notification](https://github.com/tnhkoc/ec2-health-monitoring)
 - [Static Website Hosting with Amazon S3 + CloudFront](https://github.com/tnhkoc/static-website-s3-cloudfront)
+- [Terraform EC2 Demo](https://github.com/tnhkoc/terraform-ec2-demo)
 
 🛠️ Upcoming Projects
 - Deploying containerized apps on Kubernetes (NGINX, MongoDB, etc.)
