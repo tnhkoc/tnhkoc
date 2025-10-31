@@ -5,11 +5,11 @@ I'm a Platform Support Specialist currently gaining hands-on experience with mon
 With 4+ years in IT support and infrastructure roles, I'm now focused on building real-world automation projects using AWS, Terraform, and Kubernetes.
 
 ### 🧠 Current Focus
-- AWS services: EC2, IAM, S3, CloudWatch
-- Monitoring with Grafana, Prometheus & AlertManager
-- Infrastructure as Code with Terraform
-- Kubernetes fundamentals & hands-on labs (Minikube, deployments, YAML)
-- Git & CLI-based infrastructure automation
+- Core AWS Services: EC2, IAM, S3, CloudWatch
+- Infrastructure as Code (Terraform)
+- Monitoring with Grafana & Prometheus
+- Kubernetes fundamentals (Minikube, deployments, YAML)
+- Git & CLI-based automation
 - Event-driven architecture (Lambda triggers, S3 Events)
 
 ### 📂 Projects
@@ -20,9 +20,11 @@ With 4+ years in IT support and infrastructure roles, I'm now focused on buildin
 - [Terraform EC2 Demo](https://github.com/tnhkoc/terraform-ec2-demo)
 
 🛠️ Upcoming Projects
-- Deploying containerized apps on Kubernetes (NGINX, MongoDB, etc.)
-- Creating a CI/CD pipeline using GitHub Actions for IaC
-- Kubernetes cluster monitoring with Prometheus + Grafana dashboards
+-	Deploying containerized apps to Kubernetes (NGINX, MongoDB)
+-	CI/CD pipelines with GitHub Actions
+-	Prometheus + Grafana dashboards for K8s cluster monitoring
+- Preparing for AWS SAA exam (in progress)
+- Targeting CKA certification in 2026
 
 <h3>🏅 Certification</h3>
 <a href="https://www.credly.com/badges/710309d3-be82-43ef-acf0-1791c633206b" target="_blank">
