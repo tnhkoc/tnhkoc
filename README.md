@@ -1,8 +1,8 @@
 # Hi there, I'm Tunahan 👋
 
-I'm a Platform Support Specialist currently gaining hands-on experience with monitoring tools like Grafana and Prometheus, while continuing my transition into Cloud & DevOps engineering.
+I'm a Platform Support Specialist transitioning into Cloud & DevOps engineering — currently building hands-on experience with AWS, Terraform, Kubernetes, and monitoring tools like Grafana and Prometheus.
 
-With 4+ years in IT support and infrastructure roles, I'm now focused on building real-world automation projects using AWS, Terraform, and Kubernetes.
+With 4+ years in IT support and infrastructure roles, I'm focused on deepening my knowledge of cloud-native technologies through self-driven labs and foundational projects.
 
 ### 🧠 Current Focus
 - Core AWS Services: EC2, IAM, S3, CloudWatch
